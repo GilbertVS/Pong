@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pong",
+"productVersion": "0.1",
+"dataUrl": "Pong_Web.data.unityweb",
+"wasmCodeUrl": "Pong_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pong_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Pong_Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
